@@ -1,1 +1,2 @@
-spotify website clone using HTML , CSS & Javascript.
+# SpotifyClone.com
+ In this I tried to clone spotify website using HTML, CSS, Javascript
